@@ -4,12 +4,12 @@
         <title>OneDay</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Fri, 19 Jun 2026 14:45:35 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <pubDate>Fri, 19 Jun 2026 14:56:36 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/shanxiao-studio/oneday-release/releases/download/v0.1.0/OneDay-0.1.0.zip" length="3493243" type="application/octet-stream" sparkle:edSignature="ztA0I8g6JykRA2C0kzSn4rspmb6QeFOuZGP9kMmi/TDGHU/JDqeoEOYwbcI4fhBmf2HBqyn7yxbbLmnsqeBTCQ=="/>
+            <enclosure url="https://github.com/shanxiao-studio/oneday-release/releases/download/v0.1.0/OneDay-0.1.0.zip" length="3493677" type="application/octet-stream" sparkle:edSignature="Ezeph3F58rhe5NVvmnSTSs8PUVL942t1hJEL+fhcFP0ywQchfIc53LPKCYKk5heBmGB1gusjV7uoQMfQXzQ8AQ=="/>
         </item>
     </channel>
 </rss>
