@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/shanxiao-studio/oneday-release/releases/download/v0.1.2/OneDay-0.1.2.zip" length="3311325" type="application/octet-stream" sparkle:edSignature="pp9te9o/1ZS6gPivHcPmaLfeNuLs/089gO6IiOG4ZW/uo9Tg2gxqIjpBoUQSrIOl8/+xMMUWgKXMHBYnwFKMAg=="/>
+            <enclosure url="https://github.com/shanxiao-studio/oneday-release/releases/download/v0.1.2/OneDay.zip" length="3311325" type="application/octet-stream" sparkle:edSignature="pp9te9o/1ZS6gPivHcPmaLfeNuLs/089gO6IiOG4ZW/uo9Tg2gxqIjpBoUQSrIOl8/+xMMUWgKXMHBYnwFKMAg=="/>
         </item>
     </channel>
 </rss>
