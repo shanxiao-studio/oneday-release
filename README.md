@@ -6,7 +6,7 @@
 
 **Tomorrow after tomorrow, how many tomorrows are there?**
 
-<a href="https://github.com/shanxiao-studio/oneday-release/releases/latest">
+<a href="https://github.com/shanxiao-studio/oneday-release/releases/latest/download/OneDay.zip">
   <img src="./assets/macos-badge.png" alt="Download Oneday for macOS" width="180" />
 </a>
 
